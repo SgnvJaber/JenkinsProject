@@ -32,7 +32,6 @@
                     <includes>
                         <include>Demo.java</include>
                     </includes>
-
                 </configuration>
             </plugin>
         </plugins>
